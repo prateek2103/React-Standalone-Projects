@@ -1,5 +1,5 @@
 # Countdown Game
-## [Live Demo](https://vercel.com/prateek2103s-projects/countdown-game/4pHQj4wE2mvtCxUi5ynqZPSGuk6W)
+## [Live Demo](https://countdown-game-six.vercel.app/)
 
 ## Description : 
 - Stop the timer before the time is up. 
