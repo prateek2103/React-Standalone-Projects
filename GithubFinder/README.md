@@ -1,5 +1,7 @@
 # GithubFinder
 
+## [Live demo](https://github-finder-copy.vercel.app/)
+
 ## GithubFinder is a react application to search and view github users using github api.
 
 ___________________________________
@@ -7,11 +9,6 @@ ___________________________________
 - download the repository
 - npm install
 - npm start
-
-___________________________________
-
-## Live demo
-https://github-finder-m1mqjkvwe-prateek007purohit.vercel.app/
 
 ___________________________________
 
