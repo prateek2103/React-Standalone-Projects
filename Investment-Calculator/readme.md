@@ -1,6 +1,6 @@
 # Investment calculator
 
-## [Live Demo](https://investment-calculator-10zzptcyv-prateek2103s-projects.vercel.app/)
+## [Live Demo](https://react-standalone-projects.vercel.app/)
 
 ## Description:
 - Track how you can make money from money using this simple investment calculator.
